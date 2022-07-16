@@ -1,17 +1,77 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Lifesteal Proxy",
+		"ip": "lifesteal.minehut.gg",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
+		"name": "Lifesteal Hub",
+		"ip": "104.243.42.120:5016",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "Lifesteal SMP #1",
+		"ip": "15.204.145.100:25565",
+		"type": "PC"
+	},
+	{
+		"name": "LiveStealX",
+		"ip": "livestealx.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "BoxPvPV",
+		"ip": "boxpvpv.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Flicked",
+		"ip": "flicked.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "ScuffleMC",
+		"ip": "scufflemc.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "BoxMiningX",
+		"ip": "boxminingx.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Warzone",
+		"ip": "warzone.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Flawlessed",
+		"ip": "flawlessed.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "TulpCraft",
+		"ip": "tulpcraft.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "10LivesSMP",
+		"ip": "10livessmp.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "BoxSteal",
+		"ip": "boxsteal.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "LifeSt3alX",
+		"ip": "lifest3alx.minehut.gg",
+		"type": "PC"
+	},
+	{
+		"name": "ShockNetwork",
+		"ip": "shocknetwork.minehut.gg",
 		"type": "PC"
 	}
 ]

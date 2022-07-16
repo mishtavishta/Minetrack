@@ -8,7 +8,7 @@
 		"connectTimeout": 2500
 	},
 	"logFailedPings": true,
-	"logToDatabase": false,
-	"graphDuration": 86400000,
-	"serverGraphDuration": 180000
+	"logToDatabase": true,
+	"graphDuration": 300000,
+	"serverGraphDuration": 30000
 }

@@ -1,32 +1,17 @@
 [
 	{
-		"name": "Lifesteal",
-		"ip": "play.lifesteal.rip",
+		"name": "Lifesteal Hub",
+		"ip": "104.243.42.120:5016",
+		"type": "PC"
+	},
+	{
+		"name": "Lifesteal SMP #1",
+		"ip": "apx1436284.apexmc.co",
 		"type": "PC"
 	},
 	{
 		"name": "LiveStealX",
-		"ip": "livestealx.net",
-		"type": "PC"
-	},
-	{
-		"name": "BoxPvPV",
-		"ip": "boxpvpv.net",
-		"type": "PC"
-	},
-	{
-		"name": "Flicked",
-		"ip": "flicked.net",
-		"type": "PC"
-	},
-	{
-		"name": "Warzone",
-		"ip": "play.warz.one",
-		"type": "PC"
-	},
-	{
-		"name": "Flawlessed",
-		"ip": "flawlessed.net",
+		"ip": "104.152.140.249:25565",
 		"type": "PC"
 	}
 ]

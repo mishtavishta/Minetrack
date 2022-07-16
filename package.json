@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/Cryptkeeper/Minetrack#README",
   "engines": {
-    "node": ">=12.4.0"
+    "node": "16.16.0"
   },
   "targets": {
     "main": {

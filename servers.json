@@ -1,67 +1,32 @@
 [
 	{
 		"name": "Lifesteal",
-		"ip": "lifesteal.minehut.gg",
+		"ip": "play.lifesteal.rip",
 		"type": "PC"
 	},
 	{
 		"name": "LiveStealX",
-		"ip": "livestealx.minehut.gg",
+		"ip": "livestealx.net",
 		"type": "PC"
 	},
 	{
 		"name": "BoxPvPV",
-		"ip": "boxpvpv.minehut.gg",
+		"ip": "boxpvpv.net",
 		"type": "PC"
 	},
 	{
 		"name": "Flicked",
-		"ip": "flicked.minehut.gg",
-		"type": "PC"
-	},
-	{
-		"name": "ScuffleMC",
-		"ip": "scufflemc.minehut.gg",
-		"type": "PC"
-	},
-	{
-		"name": "BoxMiningX",
-		"ip": "boxminingx.minehut.gg",
+		"ip": "flicked.net",
 		"type": "PC"
 	},
 	{
 		"name": "Warzone",
-		"ip": "warzone.minehut.gg",
+		"ip": "play.warz.one",
 		"type": "PC"
 	},
 	{
 		"name": "Flawlessed",
-		"ip": "flawlessed.minehut.gg",
-		"type": "PC"
-	},
-	{
-		"name": "TulpCraft",
-		"ip": "tulpcraft.minehut.gg",
-		"type": "PC"
-	},
-	{
-		"name": "10LivesSMP",
-		"ip": "10livessmp.minehut.gg",
-		"type": "PC"
-	},
-	{
-		"name": "BoxSteal",
-		"ip": "boxsteal.minehut.gg",
-		"type": "PC"
-	},
-	{
-		"name": "LifeSt3alX",
-		"ip": "lifest3alx.minehut.gg",
-		"type": "PC"
-	},
-	{
-		"name": "ShockNetwork",
-		"ip": "shocknetwork.minehut.gg",
+		"ip": "flawlessed.net",
 		"type": "PC"
 	}
 ]
